@@ -7,3 +7,4 @@ La aplicación está constriuda utilizando el patrón MVVM.
 
 Dentro de los archivos hay comentarios que hacen referencia a las notas que tomé en clase. Se recomienda ignorarlos. 
 
+[![My Skills](https://skills.thijs.gg/icons?i=swift)](https://skills.thijs.gg)
